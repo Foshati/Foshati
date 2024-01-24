@@ -11,25 +11,7 @@
 <h4 >professional</h4>
 
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)  ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)   <svg xmlns="http://www.w3.org/2000/svg" width="82.8" height="20" viewBox="0 0 828 200" role="img" aria-label="Gsap: Anime">
-  <title>Gsap: Anime</title>
-  <linearGradient id="LDlyw" x2="0" y2="100%">
-    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
-    <stop offset="1" stop-opacity=".1"/>
-  </linearGradient>
-  <mask id="TVIie"><rect width="828" height="200" rx="30" fill="#FFF"/></mask>
-  <g mask="url(#TVIie)">
-    <rect width="377" height="200" fill="#555"/>
-    <rect width="451" height="200" fill="#E43" x="377"/>
-    <rect width="828" height="200" fill="url(#LDlyw)"/>
-  </g>
-  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
-    <text x="60" y="148" textLength="277" fill="#000" opacity="0.25">Gsap</text>
-    <text x="50" y="138" textLength="277">Gsap</text>
-    <text x="432" y="148" textLength="351" fill="#000" opacity="0.25">Anime</text>
-    <text x="422" y="138" textLength="351">Anime</text>
-  </g>
-  
-</svg>
+[![Gsap - Anime](https://img.shields.io/badge/Gsap-Anime-F54E4D)](https://)
 <br> 
 <h4 >average </h4>
 
