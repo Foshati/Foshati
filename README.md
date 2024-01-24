@@ -1,8 +1,8 @@
 
 <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
 
-<h2 align="center"> Hello world! </h2>
-<p align="center"> I am a Mega full-stack developer ? </p>
+<h1 align="center"> Hello world! </h1>
+<h2 align="center"> I am a Mega full-stack developer ? </h2>
 
 <h2 >My skills:</h2>
 <h3 >Frameworks, Platforms and Libraries :
