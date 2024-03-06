@@ -29,5 +29,5 @@
 
 <br>
 <h2 >Contact Me</h2>
-<a href="#"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/youtube.png?raw=true" alt="YouTube"></a> <a href="#"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true" alt="Instagram"></a> 
+<a href="#"><img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-telegram-computer-icons-logo-article-2827233%2F&psig=AOvVaw05RczsufY97l-joQMPJy4W&ust=1709841376072000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDUkNe14IQDFQAAAAAdAAAAABAJ" alt="YouTube"></a> <a href="#"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true" alt="Instagram"></a> 
 <br>
