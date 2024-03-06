@@ -24,7 +24,5 @@
 
 
 
-
-
 <h2 >Contact Me</h2>
-<a href="#"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/youtube.png?raw=true" alt="YouTube"></a> <a href="#"><img align="left" src="[https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true](https://simpleicons.org/icons/telegram.svg)https://simpleicons.org/icons/telegram.svg" alt="Instagram"></a> 
+<a href="#"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/youtube.png?raw=true" alt="YouTube"></a> <a href="#"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true" alt="Instagram"></a> 
