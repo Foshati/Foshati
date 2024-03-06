@@ -29,5 +29,6 @@
 
 <br>
 <h2 >Contact Me</h2>
-<a href="#"><img align="left" src="" alt="YouTube"></a> <a href="#"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true" alt="Instagram"></a> 
+![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
+![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)<a href="#"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true" alt="Instagram"></a> 
 <br>
