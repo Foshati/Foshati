@@ -6,7 +6,7 @@
 
 
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AD353&random=false&width=460&height=70&lines=Hello+for+all+%F0%9F%91%8B;I+am+a+Mega+full+stack+developer+%3F!;Because+I+will+never%2C+ever+give+up." alt="Typing SVG" /></a>
+<a href="https://github.com/Foshati"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AD353&random=false&width=460&height=70&lines=Hello+for+all+%F0%9F%91%8B;I+am+a+Mega+full+stack+developer+%3F!;Because+I+will+never%2C+ever+give+up." alt="Typing SVG" /></a>
 
 
 <h2 >My skills:</h2>
