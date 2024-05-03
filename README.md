@@ -35,9 +35,9 @@
 
 <br>
 <div align=center>
-  <img width=430  src="https://github-readme-stats.vercel.app/api?username=foshati&hide=contribs,prs,&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Anurag's GitHub stats">
+  <img width=430  src="https://github-readme-stats.vercel.app/api?username=foshati&hide=contribs,prs,&show_icons=true&theme=shadow_green&rank_icon=github&border_radius=10" alt="Anurag's GitHub stats">
 
-  <img width=350  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=foshati&count_private=true&theme=react&border_radius=10" alt="streak stats">
+  <img width=350  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=foshati&count_private=true&theme=shadow_green&border_radius=10" alt="streak stats">
 </div>
 
 
