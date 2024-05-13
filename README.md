@@ -38,6 +38,7 @@
   <img width=430  src="https://github-readme-stats.vercel.app/api?username=foshati&hide=contribs,prs,&show_icons=true&theme=vue-dark&rank_icon=github&border_radius=10" alt="Anurag's GitHub stats">
 
   <img width=350  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=foshati&count_private=true&theme=vue-dark&border_radius=10" alt="streak stats">
+  <p>New account</p>
 </div>
 
 
