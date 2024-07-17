@@ -46,7 +46,7 @@
 
   <img width=350  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=foshati&count_private=true&theme=vue-dark&border_radius=10" alt="streak stats">
   
-  <img src="https://img.shields.io/static/v1?label=+&message=New+Start&color=%23273948&style=for-the-badge" alt="  - New Start">
+  <img src="https://img.shields.io/static/v1?label=+&message=New+Start&color=%23273948&style=for-the-badge" alt="New Start">
 
 </div>
 
