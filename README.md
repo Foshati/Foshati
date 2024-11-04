@@ -3,9 +3,6 @@
 <div align="center">
     <img src="https://typograssy.deno.dev/api?text=Fa%20=%3E%20For%20all&l0=161b22&bg=0d1117&comment=Generated%20by%20Foshati" alt="just for fun :D">
 </div>
-
-
-
 <a href="https://github.com/Foshati"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AD353&random=false&width=460&height=70&lines=Hello+for+all+%F0%9F%91%8B;I+am+a+Mega+full+stack+developer+%3F!;Because+I+will+never%2C+ever+give+up." alt="Typing SVG" /></a>
 
 
@@ -56,11 +53,8 @@
 <br>
 <div align=center>
   <img width=430  src="https://github-readme-stats.vercel.app/api?username=foshati&hide=contribs,prs,&show_icons=true&theme=vue-dark&rank_icon=github&border_radius=10" alt="Anurag's GitHub stats">
-
   <img width=350  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=foshati&count_private=true&theme=vue-dark&border_radius=10" alt="streak stats">
-  
   <img src="https://img.shields.io/static/v1?label=+&message=New+Start&color=%23273948&style=for-the-badge" alt="New Start">
-
 </div>
 
 
