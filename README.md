@@ -10,9 +10,7 @@
 <h3 >Frameworks, Platforms and Libraries :
 </h3>
 </div>
-
 <h4 >professional</h4>
-
 [![django](https://img.shields.io/static/v1?label=&message=django&color=%23000&style=for-the-badge&logo=django&logoColor=%23092E20)](https://www.djangoproject.com/)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) [![react](https://img.shields.io/static/v1?label=&message=react&color=%23000&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
  [![tailwindcss](https://img.shields.io/static/v1?label=&message=tailwindcss&color=%23000&style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4)](https://tailwindcss.com/)
