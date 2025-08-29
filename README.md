@@ -13,7 +13,7 @@
 <h4 >professional</h4>
 
  
-[![express](https://img.shields.io/static/v1?label=&message=express&color=%23000000&style=for-the-badge&logo=express&logoColor=%23F6F4F4)](https://expressjs.com/)  [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)  [![react](https://img.shields.io/static/v1?label=&message=react&color=%23000&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+ [![express](https://img.shields.io/static/v1?label=&message=express&color=%23000000&style=for-the-badge&logo=express&logoColor=%23F6F4F4)](https://expressjs.com/)  [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)  [![react](https://img.shields.io/static/v1?label=&message=react&color=%23000&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
  [![tailwindcss](https://img.shields.io/static/v1?label=&message=tailwindcss&color=%23000&style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4)](https://tailwindcss.com/)
 [![tauri](https://img.shields.io/static/v1?label=&message=tauri&color=%23000&style=for-the-badge&logo=tauri&logoColor=%2324C8D8)](https://tauri.app/)
 [![shadcnui](https://img.shields.io/static/v1?label=&message=shadcnui&color=%23000&style=for-the-badge&logo=shadcnui&logoColor=%23fff)](https://ui.shadcn.com/)
