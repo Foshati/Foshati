@@ -36,13 +36,9 @@
 
 
 
-
-
 <h3 >Programming Languages:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) 
-
-
 
 
 <br>
@@ -51,9 +47,6 @@
   <img width=350  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=foshati&count_private=true&theme=vue-dark&border_radius=10" alt="streak stats">
   <img src="https://img.shields.io/static/v1?label=+&message=New+Start&color=%23273948&style=for-the-badge" alt="New Start">
 </div>
-
-
-
 
 
 
