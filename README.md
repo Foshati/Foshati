@@ -9,7 +9,6 @@
 
 <br> 
 
-
 <h2 >My skills:</h2>
 <h3 >Frameworks, Platforms and Libraries :</h3>
 <h4 >professional</h4>
